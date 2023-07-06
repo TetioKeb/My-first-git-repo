@@ -1,2 +1,3 @@
 Hello worl!
 This is my very first file in git.
+We are adding a third line of text.
