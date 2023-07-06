@@ -1,4 +1,5 @@
 Hello worl!
-This is my very first file in git.
-Changing the text on the third line.
+//There used to be two lines here//.
 And also adding a fourth line.
+I will write whatever i am hearing here.
+Because this is my git file.
