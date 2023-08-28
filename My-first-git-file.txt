@@ -5,3 +5,7 @@ I will write whatever i am hearing here.
 Because this is my git file.
 Yeah i know the second file is in b branch
 i don't want to delete any line
+
+my name is brenda
+
+i love doing git
